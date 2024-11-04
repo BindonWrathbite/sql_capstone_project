@@ -8,8 +8,10 @@ SELECT
 FROM
     job_postings_fact
 WHERE
-    job_schedule_type ILIKE '%full%'
+    job_title = 'Data Analyst'
+    AND job_schedule_type ILIKE '%full%'
     AND job_work_from_home IS TRUE
+    AND salary_year_avg IS NOT NULL
 GROUP BY
     job_id
 ORDER BY
