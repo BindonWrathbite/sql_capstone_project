@@ -9,4 +9,4 @@ This project is used to display a culmination of all skills gained through the L
 5. What are the most optimal skills to learn?
 
 #### Question 1 - What are the top paying jobs for Data Analytics?
-
+![alt text](image.png)
