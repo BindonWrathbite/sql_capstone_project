@@ -1,4 +1,4 @@
-SELECT
+    SELECT
     job_id,
     job_title,
     job_location,
