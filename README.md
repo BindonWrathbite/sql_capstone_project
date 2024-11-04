@@ -8,7 +8,14 @@ This project is used to display a culmination of all skills gained through the L
 4. What are the top skills based on salary for my role? 
 5. What are the most optimal skills to learn?
 
+
 ### Question 1 - What are the top paying jobs for Data Analytics?
 The below image shows the query and results table.
 I am specifically looking for Data Analyst jobs that are remote and full-time. 
 ![alt text](image.png)
+
+
+### Question 2 - What are the skills required for these top-paying roles?
+The below image is the query to find this information, utilizing query1 from the prior question. 
+NOTE: I could have alternatively turned query1 into a CTE and used that in place of the query1 table.
+![alt text](image-1.png)
