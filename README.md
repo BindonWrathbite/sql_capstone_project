@@ -1,5 +1,4 @@
-# capstone_project
- ## SQL Capstone Project
+# SQL Capstone Project
 This project is used to display a culmination of all skills gained through the Luke Barousse "SQL for Data Analytics" course.
 
 ### Questions to Answer
