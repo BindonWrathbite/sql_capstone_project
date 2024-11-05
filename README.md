@@ -27,6 +27,7 @@ I am looking for the most in-demand skills for a Data Analyst. Below is the quer
 
 
 ### Question 4 - What are the top skills based on salary for my role?
-
+Utilizing the query below, I was able to find the top-paying skills (see table w/ query).
+![alt text](image-3.png)
 
 ### Question 5 - What are the most optimal skills to learn?
