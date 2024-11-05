@@ -32,8 +32,7 @@ Utilizing the query below, I was able to find the top-paying skills (see table w
 
 ### Question 5 - What are the most optimal skills to learn?
 Below is the information for the "most optimal skills". The query was a bit long with the CTEs so I do not have a screenshot. 
-Results of Query:
-
+Results of Query:<br>
 ![alt text](image-4.png)
 
 QUERY (too long to screenshot)
