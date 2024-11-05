@@ -19,3 +19,14 @@ I am specifically looking for Data Analyst jobs that are remote and full-time.
 The below image is the query to find this information, utilizing query1 from the prior question. 
 NOTE: I could have alternatively turned query1 into a CTE and used that in place of the query1 table.
 ![alt text](image-1.png)
+
+
+### Question 3 - What are the most in-demand skills for my role?
+I am looking for the most in-demand skills for a Data Analyst. Below is the query and results
+![alt text](image-2.png)
+
+
+### Question 4 - What are the top skills based on salary for my role?
+
+
+### Question 5 - What are the most optimal skills to learn?
